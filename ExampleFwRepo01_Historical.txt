@@ -13,3 +13,15 @@
    4. Modificata la funzione UC1608_RefreshBG: Introdotto un SEMAFORO.
 *******************************************************************************
 
+*******************************************************************************
+-  eSwim_V01.25                                                      29/01/2016
+   
+   1. Introdotta gestione dell'errore RTC
+   2. Risolto Baco: Nella HomePage non era possibile modificare il SP del QC
+      nel caso la modoalit`a di regolazione di SET1-SET4 fosse stata in portata
+   3. Nel menù Timers Settings introdotta la possibilità di segnare le check
+      boxes sia con il tasto ENTER che con i tasti FRECCIA SU e FRECCIA GIU
+   4. Modificato i default dei timers : START @ 00:00 END @ 23:59
+   5. Corrette le traduzioni in lingua dei giorni della settimana
+*******************************************************************************
+
