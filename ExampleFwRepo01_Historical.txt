@@ -1,0 +1,15 @@
+                      ExampleFwRepo01 - HISTORICAL FW LV -
+
+*******************************************************************************
+-  ExampleFwRepo01_V01.24_LAV_00                                     14/09/2015
+   
+   1. Versione derivata da eSwim_LifeTest_V01.07
+   2. Modificata gestione dei tasti. Sostituite le MACRO con le funzioni:
+      a. Keyb_PressAndRelease
+      b. Keyb_PressAndHold3S
+      c. Keyb_PressHoldAndRelease
+   3. Introdotta la funzione UC1608_RefreshDisplay2 che esegue il refresh del
+      display in 2 volte (alternando le COLONNE pari e dispari)
+   4. Modificata la funzione UC1608_RefreshBG: Introdotto un SEMAFORO.
+*******************************************************************************
+
